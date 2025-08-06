@@ -1,6 +1,6 @@
 # 📦 Cadastro de Produtos e Controle de Estoque
 
-Projeto desenvolvido durante as férias, com o objetivo de praticar lógica de programação em Python e manipulação de arquivos. Simula o cadastro de produtos, controle de estoque e realização de pedidos com histórico salvo em arquivos `.txt` e `.csv`.
+Projeto desenvolvido durante as férias, por iniciativa própria, com o objetivo de praticar lógica de programação em Python e manipulação de arquivos. Simula o cadastro de produtos, controle de estoque e realização de pedidos com histórico salvo em arquivos `.txt` e `.csv`.
 
 ---
 
